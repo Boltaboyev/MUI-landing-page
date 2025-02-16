@@ -1,7 +1,7 @@
 import React from "react"
 import {Link} from "react-router-dom"
 
-import logo from "../../assets/icons/Logo.svg"
+import logo from "../../assets/icons/logo.svg"
 import {ImGithub} from "react-icons/im"
 import {IoSearch} from "react-icons/io5"
 import {FaMoon} from "react-icons/fa"
