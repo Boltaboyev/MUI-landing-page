@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap");
+@import "tailwindcss";
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+.container1 {
+    width: 90%;
+    margin: auto;
+}
+@media (min-width: 1440px) {
+    .container1 {
+        width: 1400px;
+    }
+}
